@@ -11,6 +11,9 @@ const Icon = styled.img`
 `;
 
 document.addEventListener('DOMContentLoaded', () => {
+  const user = {
+    img_url: '',
+  };
   ReactDOM.render(
     <Wrapper>
       <Icon src="{user.img_url}" />
