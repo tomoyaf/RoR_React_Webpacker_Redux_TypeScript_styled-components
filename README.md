@@ -1,4 +1,4 @@
-# README
+# Ruby on Rails + Webpacker + React + Redux + TypeScript + styled-components
 
 デフォルトではプロジェクト名が「template」なので
 ```shell
